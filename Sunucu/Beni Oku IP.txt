@@ -1,0 +1,4 @@
+             <IP>
+KratesCraft.exaraton.me:14849
+             <sürüm>
+     1.20.1
